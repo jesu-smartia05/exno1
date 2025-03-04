@@ -1,3 +1,5 @@
+## Name : Jesu Smartia A
+## Reg.No : 212223110016
 # Exno:1
 Data Cleaning Process
 
@@ -75,10 +77,7 @@ df.fillna({'GENDER':'MALE','NAME':'SRI','ADDRESS':'POONAMALEE','M1':98,'M2':87,'
 ```
 ![image](https://github.com/DHINESH-SEC/exno1/assets/118351569/9f913d9b-975a-4b3f-87ff-f4491bdebe83)
 
-
-<hr><hr>
-
-<h3 align="center">IQR(Inter Quartile Range)</h3>
+# IQR(Inter Quartile Range)
 
 ```py
 import pandas as pd
@@ -125,9 +124,7 @@ sns.boxplot(x='sepal_width',data=delid)
 ```
 ![image](https://github.com/DHINESH-SEC/exno1/assets/118351569/1e19ac51-2803-4a07-9e0b-d7c2b7583882)
 
-<hr><hr>
-
-<h3 align="center">Z-Score</h3>
+# Z-Score
 
 ```py
 import matplotlib.pyplot as plt
@@ -186,4 +183,4 @@ df1
 ![image](https://github.com/DHINESH-SEC/exno1/assets/118351569/08be1792-3872-4f44-922f-ff50c606b79e)
 
 # Result
-          <<include your Result here>>
+Thus , the progam of data cleaning executed successfully.
