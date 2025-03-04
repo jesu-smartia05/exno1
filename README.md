@@ -71,7 +71,7 @@ df_dropped
 ![image](https://github.com/DHINESH-SEC/exno1/assets/118351569/3d6b105d-83dc-46cd-9cc6-5a8ab32542a6)
 
 ```py
-df.fillna({'GENDER':'FEMALE','NAME':'SMART','ADDRESS':'TENKASI','M1':92,'M2':97,'M3':86,'M4':72})
+df.fillna({'GENDER':'MALE','NAME':'SRI','ADDRESS':'POONAMALEE','M1':98,'M2':87,'M3':76,'M4':92,'TOTAL':305,'AVG':89.999999})
 ```
 ![image](https://github.com/DHINESH-SEC/exno1/assets/118351569/9f913d9b-975a-4b3f-87ff-f4491bdebe83)
 
